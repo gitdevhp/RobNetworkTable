@@ -22,3 +22,11 @@ h4 {
   opacity: .7;
   size: 2em;
 }
+
+.main-hold {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  height: fit-content;
+}

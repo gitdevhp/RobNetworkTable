@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-export default function loc() {
+const Loc = () => {
     var loc = true;
     return (
         <div>
@@ -13,3 +13,5 @@ export default function loc() {
         </div>
     );
 }
+
+export default Loc;

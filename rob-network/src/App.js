@@ -1,4 +1,5 @@
 import './App.css';
+import Loc from '../components/location';
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
 
       </div>
       <div className="main-hold">
-
+        <Loc/>
       </div>
     </div>
   );
