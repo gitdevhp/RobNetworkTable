@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@tauri-apps/api": "^1.5.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -39,5 +40,8 @@
   "devDependencies": {
     "@tauri-apps/cli": "^1.5.2",
     "cross-env": "^7.0.3"
-  }, "resolutions": {"mini-css-extract-plugin": "^2.4.7"}
+  },
+  "resolutions": {
+    "mini-css-extract-plugin": "^2.4.7"
+  }
 }
