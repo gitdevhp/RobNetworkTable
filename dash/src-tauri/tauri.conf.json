@@ -3,7 +3,7 @@
   "build": {
     "beforeBuildCommand": "yarn build",
     "beforeDevCommand": "yarn install",
-    "devPath": "http://localhost:3002",
+    "devPath": "http://localhost:3000",
     "distDir": "../build"
   },
   "package": {
